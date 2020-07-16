@@ -1,4 +1,4 @@
-Slightly modified version of library, just to not break GraphN packaging process.
+Slightly modified version of library, just to not break GraphN's packaging process.
 
 =============================
 astor -- AST observe/rewrite
